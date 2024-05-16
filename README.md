@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![Twitter: Joeeazy](https://img.shields.io/twitter/follow/Joeeazy?style=social)](https://x.com/joeeeazyy?t=H8ON24UhpE8iM-4fUFZHyw&s=09)
-[![Linkedin: Mwangi Joe](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwangiJoe/)](https://www.linkedin.com/in/mwangi-joe-b9b593227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Linkedin: Mwangi Joe](https://img.shields.io/badge/-mwangiJoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwangiJoe/)](https://www.linkedin.com/in/mwangi-joe-b9b593227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub Joeeazy](https://img.shields.io/github/followers/Joeeazy?label=follow&style=social)](https://github.com/Joeeazy)
 
 # 💻 Tech Stack:
