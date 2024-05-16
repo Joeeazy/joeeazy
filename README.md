@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h2> Hi, I'm Mwangi Joseph! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner student at ALX_AFRICA<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>FullStack Developer Freelancer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner student at ALX_AFRICA<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>FullStack Developer Freelancer</a><<iframe src="https://giphy.com/embed/q217GUnfKAmJlFcjBX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-demon-slayer-kimetsu-no-yaiba-xbox-series-x-q217GUnfKAmJlFcjBX">via GIPHY</a></p> width="30"> 
 </em></p>
 
 ## 🌐 Socials:
