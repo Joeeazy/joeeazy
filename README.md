@@ -1,6 +1,7 @@
 # 💫 About Me:
 <h2> Hi, I'm Mwangi Joseph! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://tenor.com/view/happy-cute-boy-gif-5599506735065577224" width="230">
+![Happy Cute GIF](https://tenor.com/view/happy-cute-boy-gif-5599506735065577224)
+<!-- <img align='right' src="https://tenor.com/view/happy-cute-boy-gif-5599506735065577224" width="230"> -->
 <p><em>Software Enginner student at ALX_AFRICA<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>FullStack Developer Freelancer</a> <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://www.google.com/imgres?q=black%20anime%20characters&imgurl=https%3A%2F%2Fcdn.hero.page%2Fpfp%2Fffa7cc2e-8e5b-4317-8898-c015590ccf56-stoic-black-anime-boy-alluring-black-anime-boy-characters-pfp-1.png&imgrefurl=https%3A%2F%2Fhero.page%2Fsearch%2Fall%2Famazing-black-anime-characters-pfp&docid=Xc47QoKqFbHwlM&tbnid=C0JFOBuy1VSBnM&vet=12ahUKEwiLrv3zmJOGAxVF1wIHHR2UA7QQM3oECGQQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwiLrv3zmJOGAxVF1wIHHR2UA7QQM3oECGQQAA)" width="30"> 
 </em></p>
 
