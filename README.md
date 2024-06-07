@@ -17,13 +17,8 @@ const Mwangi = {
   pronouns: "div" | "dev",
   backend: ["Nodejs", "ExpressJs", "Flask", "Django", "Go"],
   frontend: ["HTML", "ReactJs", "TailWindCSS", "NEXTJs"],
-  database: ["Postgresql", "mySQL", "Redis", "MongoDB],
+  database: ["Postgresql", "mySQL", "Redis", "MongoDB"],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "ALX DEVS",
-                        speaker: "English",
-                        mentor: "Julien"
-                      },
  challenge: "I am doing the #100DaysOfALX_SE challenge focusing on MERN"
 }
 ```
