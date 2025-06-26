@@ -5,7 +5,7 @@
 <p><em>🚀 Software Engineering Student at <a href="https://www.alxafrica.com/">ALX_AFRICA</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>💻 Full Stack Developer | AI Enthusiast<br>🧠 Exploring the Frontiers of AI & Cloud Computing</em></p>
 
 ## 🌟 Tech Stack & Interests
-```javascript
+javascript
 const Mwangi = {
   pronouns: "he" | "dev",
   focus: "Building intelligent full-stack solutions",
@@ -50,4 +50,4 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 <div align="center">
 https://visitcount.itsvg.in/api?id=Joeeazy&icon=5&color=1
 
-</div><p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5pY2R1d3F6dWJkY2NpZGJ5bXZqY2RqYzV5bWxqZ3V6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ju2a2hwOE8xhwgX6Xj/giphy.gif" width="200"> </p> ```
+</div><p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5pY2R1d3F6dWJkY2NpZGJ5bXZqY2RqYzV5bWxqZ3V6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ju2a2hwOE8xhwgX6Xj/giphy.gif" width="200"> </p>
