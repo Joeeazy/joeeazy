@@ -1,35 +1,53 @@
 # 💫 About Me:
-<h2> Hi, I'm Mwangi Joseph! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginnering student at ALX_AFRICA<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>FullStack Developer</a> <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://www.google.com/imgres?q=black%20anime%20characters&imgurl=https%3A%2F%2Fcdn.hero.page%2Fpfp%2Fffa7cc2e-8e5b-4317-8898-c015590ccf56-stoic-black-anime-boy-alluring-black-anime-boy-characters-pfp-1.png&imgrefurl=https%3A%2F%2Fhero.page%2Fsearch%2Fall%2Famazing-black-anime-characters-pfp&docid=Xc47QoKqFbHwlM&tbnid=C0JFOBuy1VSBnM&vet=12ahUKEwiLrv3zmJOGAxVF1wIHHR2UA7QQM3oECGQQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwiLrv3zmJOGAxVF1wIHHR2UA7QQM3oECGQQAA)" width="30"> 
-</em></p>
+<h2 align="center"> Hi, I'm Mwangi Joseph! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9iZ3h6eWxwZ3FmZ3J5b2V4OG1qY3RqYzJ6eHl1dGx2dGJ1eGJ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ES4Vcv8zWfIt2/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VjY3J4dGJmY3ZtZ2J1dWx4dW5zZ2R5eGZ0dG5qYzV5bWxqZ3V6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMcB8XospGZO8UQq87/giphy.gif" width="300">
 
+<p><em>🚀 Software Engineering Student at <a href="https://www.alxafrica.com/">ALX_AFRICA</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>💻 Full Stack Developer | AI Enthusiast<br>🧠 Exploring the Frontiers of AI & Cloud Computing</em></p>
 
-## 🌐 Socials:
-[![Twitter: Joeeazy](https://img.shields.io/twitter/follow/Joeeazy?style=social)](https://x.com/joeeeazyy?t=H8ON24UhpE8iM-4fUFZHyw&s=09)
-[![Linkedin: Mwangi Joe](https://img.shields.io/badge/-mwangiJoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwangiJoe/)](https://www.linkedin.com/in/mwangi-joe-b9b593227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub Joeeazy](https://img.shields.io/github/followers/Joeeazy?label=follow&style=social)](https://github.com/Joeeazy)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about what I do... 
-
+## 🌟 Tech Stack & Interests
 ```javascript
 const Mwangi = {
-  pronouns: "div" | "dev",
-  backend: ["Nodejs", "ExpressJs", "Flask", "Django", "Go"],
-  frontend: ["HTML", "ReactJs", "TailWindCSS", "NEXTJs"],
-  database: ["Postgresql", "mySQL", "Redis", "MongoDB"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
- challenge: "I am doing the #100DaysOfALX_SE challenge focusing on MERN"
+  pronouns: "he" | "dev",
+  focus: "Building intelligent full-stack solutions",
+  backend: ["Node.js", "Python", "Flask", "Django", "Go", "FastAPI"],
+  frontend: ["React", "Next.js", "TailwindCSS", "Three.js"],
+  ai_ml: ["TensorFlow", "PyTorch", "LangChain", "LLMs", "Computer Vision"],
+  database: ["PostgreSQL", "MongoDB", "Redis", "Neo4j"],
+  devops: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+  architecture: ["Microservices", "Serverless", "AI Agents", "RAG Systems"],
+  current_goals: [
+    "#100DaysOfALX_SE Challenge (MERN Stack)", 
+    "Building AI-powered applications",
+    "Contributing to Open Source AI Projects"
+  ]
 }
-```
+🚀 Latest Projects
+🤖 AI Content Generator - Next.js app with GPT-4 integration
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joeeazy&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joeeazy&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joeeazy&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🧠 Neural Style Transfer - Python/Flask web app for artistic filters
 
----
-[![](https://visitcount.itsvg.in/api?id=Joeeazy&icon=2&color=1)](https://visitcount.itsvg.in)
+🌐 Fullstack E-commerce - MERN stack with recommendation engine
 
+🌐 Let's Connect
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 
-###
+📊 GitHub Analytics
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=Joeeazy&show_icons=true&theme=radical&hide_border=true
+https://github-readme-streak-stats.herokuapp.com/?user=Joeeazy&theme=radical&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=Joeeazy&theme=radical&hide_border=true&layout=compact
+
+</div>
+🏆 GitHub Trophies
+https://github-profile-trophy.vercel.app/?username=Joeeazy&theme=onedark&no-frame=true&no-bg=true&margin-w=4
+
+✍️ Dev Quote
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+
+<div align="center">
+https://visitcount.itsvg.in/api?id=Joeeazy&icon=5&color=1
+
+</div><p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5pY2R1d3F6dWJkY2NpZGJ5bXZqY2RqYzV5bWxqZ3V6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ju2a2hwOE8xhwgX6Xj/giphy.gif" width="200"> </p> ```
