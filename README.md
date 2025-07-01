@@ -1,20 +1,15 @@
-# 🇰🇪 Mwangi Joseph | Health Tech & AI Innovator
+# Mwangi Joseph | Health Tech & AI Innovator
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+|+Health+Tech+Specialist;AI+%26+Cloud+Enthusiast;Transforming+Healthcare+With+Code" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
-
 ---
 
 ## 👨‍⚕️ Who Am I?
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
-Hi! I'm **Mwangi Joseph**, a Kenyan software engineer on a mission to revolutionize healthcare through tech.
+Hi! I'm **Mwangi Joseph**, a software engineer on a mission to revolutionize healthcare through tech.
 
 - 🧠 **AI Engineer** – Creating ML models for diagnosis & treatment prediction
 - 💻 **Full Stack Developer** – Building scalable, user-centric web apps
