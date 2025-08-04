@@ -21,7 +21,7 @@ Hi! I'm **Mwangi Joseph**, a software engineer on a mission to revolutionize hea
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
 ![Go Lang](https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
