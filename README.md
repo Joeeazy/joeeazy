@@ -1,9 +1,8 @@
-# Mwangi Joseph | Health Tech & AI Innovator
+# Mwangi Joseph | Full Stack Dev & Health Tech
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+|+Health+Tech+Specialist;AI+%26+Cloud+Enthusiast;Transforming+Healthcare+With+Code" alt="Typing SVG" />
 </div>
----
 
 ## 👨‍⚕️ Who Am I?
 
@@ -56,20 +55,3 @@ Hi! I'm **Mwangi Joseph**, a software engineer on a mission to revolutionize hea
 </div>
 
 ---
-
-## 🎯 2025 Roadmap
-
-```javascript
-const goals2025 = {
-  healthTech: "Build AI-integrated telemedicine platforms",
-  ai: "Train ML models for medical diagnosis",
-  cloud: "Get AWS & Azure certified in healthcare cloud solutions",
-  security: "Start CISSP prep focused on health data protection",
-  learning: [
-    "HIPAA & healthcare data regulations",
-    "Medical ML pipelines",
-    "Scalable cloud infrastructure for hospitals",
-    "Cybersecurity for clinical environments"
-  ],
-  mission: "Launch an open-source health tech solution for East Africa"
-}
