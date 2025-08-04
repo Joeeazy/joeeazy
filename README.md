@@ -11,22 +11,13 @@
 
 Hi! I'm **Mwangi Joseph**, a software engineer on a mission to revolutionize healthcare through tech.
 
-- 🧠 **AI Engineer** – Creating ML models for diagnosis & treatment prediction
 - 💻 **Full Stack Developer** – Building scalable, user-centric web apps
-- ☁️ **Cloud Enthusiast** – Architecting secure healthcare infrastructure
-- 🔒 **Cybersecurity Learner** – Committed to protecting sensitive medical data
-- 🎓 **ALX SE Graduate** – MERN stack trained, with passion for health solutions
+- ☁️ **Cloud Enthusiast** – Architecting secure infrastructure
+- 🔒 **Cybersecurity Learner** – Committed to protecting sensitive data
 
 ---
 
 ## 🧰 Tech Stack
-
-### 🩺 Health AI & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas)
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
